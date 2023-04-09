@@ -1,2 +1,2 @@
 # privacy-policy
-Generic and prob wrong priv policy
+Generic and privacy policy
